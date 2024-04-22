@@ -1,0 +1,11 @@
+Pip install  Flask
+
+pip install Flask-SQLAlchemy
+
+pip install mysqlclient
+
+pip install flask-marshmallow sqlalchemy
+
+MySQL:Connection or Sqlite 
+
+mysql://scott:tiger@localhost/mydatabase
